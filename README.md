@@ -2,6 +2,9 @@
 Run `run.sh` if you don't have Python installed to run using Docker
 
 ## Game of life
+
+![Game of life screenshot](https://github.com/Kwieto/game-of-life/blob/main/img.png?raw=true)
+
 I wanted to try out some Python so I decided to create a simple Game of life.
 These are the rules:
 
