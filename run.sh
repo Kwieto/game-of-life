@@ -1,0 +1,1 @@
+docker run -it -v "${PWD}":/a -w /a python:3 python game.py
